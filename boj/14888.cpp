@@ -1,3 +1,6 @@
+//boj 14888
+//2020.6.9
+
 #include <iostream>
 #include <vector>
 #define INF 987654321
