@@ -1,3 +1,6 @@
+//boj 1966
+//2020.6.16
+
 #include <iostream>
 #include <vector>
 using namespace std;
