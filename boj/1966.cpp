@@ -1,5 +1,5 @@
 //boj 1966
-//2020.6.16
+//2020.6.16/08:45
 
 #include <iostream>
 #include <vector>
